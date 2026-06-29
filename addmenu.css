@@ -16,7 +16,7 @@ li{
 li:hover{
     color:white;
 }
-.box{
+.box1{
     border-color:black;
     border-width:5px;
     border-style:solid;
@@ -28,12 +28,12 @@ li:hover{
     padding:10px;
     margin:20px;
 }
-.box img{
+.box1 img{
     width : 100%;
     height: 200px;
     object-fit: cover;
 }
-.polish{
+.polish1{
     background-color:black;
     color:white;
     text-align:center;
